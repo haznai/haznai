@@ -16,9 +16,9 @@
 title: Hasan Atak
 description: A bold typographic theme inspired by Swiss design.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: jekyll # the GitHub repo name for your project
-github_username: jekyll
+url: haznai.github.io # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: haznai.github.io # the GitHub repo name for your project
+github_username: haznai
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
